@@ -90,6 +90,7 @@ if(!$rs)
 <!--<header id="top_header" align="center">-->
 <h1>KRISHNA PUBLIC SCHOOL</h1><br>
 <h3>RESULT OF CLASS XI</h3></header>
+<h3>Display results</h3>
 
 <h1>Personal Details:</h1><br>
 <?php
